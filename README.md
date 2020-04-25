@@ -17,7 +17,7 @@ Online reviews act like word-of-mouth marketing today. So here is the Review sys
  1. Node.js
  2. Express.js
  3. MongoDB (Database)
- 4. Passport.js
- 5. JSON 
+ 4. Passport.js (Authentication)
+ 5. JSON (API's and web token)
 
 ### Made By :  Harsh Kothari
